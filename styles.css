@@ -1,0 +1,73 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+/* HEADER HEADER HEADER HEADER HEADER HEADER */
+
+.header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-left: 15%;
+    padding-right: 15%;
+    background-color: #1F2937;
+    color: #E5E7EB;
+    font-size: 18px;
+}
+
+.header-left {
+    
+}
+
+.header-right {
+    display: flex;
+    align-items: center;
+        
+}
+
+.header-right a {
+    padding-left: 3em;
+    color: #E5E7EB;
+}
+
+/* ===================================================== */
+
+
+/* THIS WEBSITE IS AWESOME THIS WEBSITE IS AWESOME  */
+
+.awesome {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-left: 15%;
+    padding-right: 15%;
+    padding-bottom: 3%;
+    background-color: #1F2937;
+    color: #E5E7EB;
+    align-items: center;
+}
+
+.awesome h1 {
+    color: #F9FAF8;
+    font-size: 48px;
+}
+
+.awesome p {
+    font-size: 18px;
+}
+
+.awesome button {
+    background-color: #3882F6;
+    color: #E5E7EB;
+    border-radius: 25px;
+    font-size: 18px;
+    width: 120px;
+    height: 40px;
+    margin-top: 1%;
+}
+
+.awesome img {
+    height: 300px;
+}
+
